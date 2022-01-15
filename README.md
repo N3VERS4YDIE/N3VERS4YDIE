@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Santiago Palacio Vásquez @N3VERS4YDIE
+- 👋 Hi, my name is Santiago Palacio Vásquez.
+- Sorry i still don't have many projects done to upload here, at the moment the vast majority are prototype projects.
 
 <!---
 - 👀 I’m interested in ...
