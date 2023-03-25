@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @N3VERS4YDIE.
-- Sorry i still don't have many projects done to upload here, at the moment the vast majority are prototype projects.
 
 <!---
 - 👀 I’m interested in ...
