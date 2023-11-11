@@ -1,13 +1,2 @@
-- 👋 Hi, I'm @N3VERS4YDIE.
-
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-N3VERS4YDIE/N3VERS4YDIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3VERS4YDIE&theme=radical&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3VERS4YDIE&layout=donut&theme=radical)
